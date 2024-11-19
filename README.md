@@ -41,9 +41,6 @@
 
 ### 🎨 **Dynamic Activities**
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" /> </div>
----
-
-Here’s the updated **Connect with Me** section with consistent icon styles for all links:
 
 ---
 
