@@ -40,8 +40,7 @@
 ---
 
 ### 🎨 **Dynamic Activities**
-<div align="center">
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" /> </div>
 ---
 
 ### 🌍 **Let's Connect**
