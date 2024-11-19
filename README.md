@@ -30,8 +30,8 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanuel-solomon&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuel-solomon&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dawit-Jogora&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawit-Jogora&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanuel-solomon&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -54,5 +54,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanuel-solomon&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dawit-Jogora&style=for-the-badge" alt="Profile Views" />
 </div>
