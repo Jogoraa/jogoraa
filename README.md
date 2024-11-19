@@ -39,7 +39,8 @@
 
 ## 🎨 **Dynamic Activities**
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  ![GitHub Activity Graph](https://ghchart.rshah.org/jogoraa)
+
 </div>
 
 
