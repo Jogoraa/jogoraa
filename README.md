@@ -41,7 +41,7 @@
 
 ### 🎨 **Dynamic Activities**
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jogoraa&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/jogoraa/github-readme-activity-graph)
 </div>
 
 ---
