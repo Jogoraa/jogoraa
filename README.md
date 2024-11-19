@@ -39,7 +39,7 @@
 
 ## 🎨 **Dynamic Activities**
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=amanuel-solomon&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
