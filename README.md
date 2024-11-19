@@ -8,7 +8,7 @@
 - 🎓 **Fresh Graduate** in Information Systems from Haramaya University.
 - 💻 Passionate about **Full-Stack Development**, creating **mobile applications**, and solving real-world problems.
 - 📹 Sharing knowledge on [YouTube](#) and tech insights on [Telegram](#).
-- 🎵 Exploring **music production** as a creative outlet.
+
 
 ---
 
@@ -39,9 +39,9 @@
 
 ## 🎨 **Dynamic Activities**
 <div align="center">
-  ![GitHub Activity Graph](https://ghchart.rshah.org/jogoraa)
-
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
+
 
 
 ---
