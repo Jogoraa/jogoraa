@@ -8,6 +8,7 @@
 ---
 
 ### 🌟 **About Me**
+---
 - 👨‍💻 Full-Stack Developer passionate about building intuitive and efficient digital solutions.  
 - 🎯 Aspiring Tech Entrepreneur with a vision to solve real-world problems.  
 - 📱 Specialized in mobile app development using **Flutter** and native technologies. 
