@@ -31,17 +31,32 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogoraa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogoraa&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogoraa&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 📝 GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jogoraa&theme=radical)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jogoraa&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jogoraa&theme=vision-friendly-dark&hide_border=false)<br/>
+![frkudn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jogoraa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### 🎨 **Dynamic Activities**
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jogoraa&theme=rogue&hide_border=true&area=true" alt="GitHub Activity Graph" /> </div>
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jogoraa&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jogoraa&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+### Profile Views
+Counting of visitors to this page started from 2024
+
+![Profile Views](https://count.getloli.com/get/@jogoraa?theme=rule34)
+
 
 ---
 
